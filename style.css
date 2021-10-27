@@ -1,0 +1,24 @@
+.evenText{
+    color: green;
+}
+
+.fourthText{
+    text-decoration: underline;
+}
+
+.textField{
+    background-color: gray;
+}
+
+.passwordField{
+    background-color: black;
+    color: white;
+}
+
+.blueText{
+    color: blue;
+}
+
+p:hover{
+    background-color: yellow;
+}
